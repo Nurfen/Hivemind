@@ -60,8 +60,8 @@ guideline? e.g. what if only 10% of the population is actively using it.
 ### Technical things
 
 - Start from scratch or fork existing repos that could serve as a starting point:
-- Forum magnum https://github.com/ForumMagnum/ForumMagnum
-- ...
+    - Forum magnum https://github.com/ForumMagnum/ForumMagnum
+    - ...
 - cloud or not?
 - Federated or not? Nice for public service, but maybe more difficult security-wise and with the restricted login?
 
