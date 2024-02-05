@@ -23,8 +23,8 @@ Create a reddit like forum where people can propose ideas  in threads and discus
 
 - Auto summarising, to give a concise summary on the topic on top of the thread.
 - Auto reasoning and bias detection, to label reasoning fallacies and improve the discussion.
-Product: One product with an easily adjustabele login plugin to make it easy to use for other organisations
-What it is not.
+
+## What it is not.
 Hivemind is not a replacement for the leading class, as it  is not efficient to have everybody vote on every decission. See it more  as a guiding tool for the people that make the decissions to allign  with the ideas and will of the population.
 
 ## Topics to be discussed:
