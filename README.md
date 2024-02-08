@@ -17,6 +17,7 @@ media attention.
 - People have to vote for parties that rarely fully align with their interests.
 - Black-and-white thinking and a lack of nuance of the larger population due to low-quality media coverage.
 - People stay in local communities, which lack variety in perspectives and reduce the openness of their minds.
+- Corruption. People are easily corrupted when the discussion occurs behind closed doors.
 
 ## Proposed solution
 
