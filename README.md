@@ -1,8 +1,7 @@
 # Hivemind
 
 Open source forum software to efficiently communicate the 
- ideas and the will of large populations (countries, cities, large  
-companies, …) to the leading parties.
+ ideas and the will of large populations (countries, cities, companies, …) to the leading parties.
 
 
 ## Problem statement (country level)
@@ -11,7 +10,7 @@ Our current democratic system feels outdated:
 
 - Limited and slow feedback cycles of the population, as elections are only 1 time every 4 years.
 - No easy communication channel from the population towards the
-leaders. Making it difficult to bring new ideas. Current communication
+leaders makes it difficult to bring new ideas. Current communication
 channels are labour and time-intensive such as protests, strikes or
 media attention.
 - People have to vote for parties that rarely fully align with their interests.
@@ -28,7 +27,7 @@ backgrounds.
 ### Main features: (Core)
 
 - Reddit-like threads with comments and up/down votes.
-- Restricted login, so only people of a country can use it (Itsme for Belgium). The login module should be easily adjustable so other
+- Restricted login, so only people of a country can use it (e.g. [Itsme](https://www.itsme-id.com/en-BE/get-started) for a lot of European countries like Belgium, Netherlands, ...). The login module should be easily adjustable so other
 organisations can host the forum with their login method.
 - A voting option to vote yes/no on the idea of every thread.
 - See the voting statistics per thread.
@@ -42,8 +41,7 @@ organisations can host the forum with their login method.
 
 Hivemind is not a replacement for the leading class, as it
   is not efficient to have everybody vote on every decision. See it 
-more as a guiding tool for the people that make the decisions to 
-align with the ideas and will of the population.
+more as a tool of a population to efficiently share it's will and ideas with the leading class. The leading class on the other hand can also use it to organise referendum.
 
 
 ## Topics to be discussed:
@@ -60,7 +58,7 @@ guideline? e.g. what if only 10% of the population is actively using it.
 
 ### Technical things
 
-- Start from scratch or fork existing repos that could serve as a starting point:
+- Fork existing repos that could serve as a starting point?:
     - Forum magnum https://github.com/ForumMagnum/ForumMagnum
     - ...
 - cloud or not?
@@ -75,6 +73,7 @@ guideline? e.g. what if only 10% of the population is actively using it.
 ## How to contribute
 
 Join the discussion on r/hivemindforum subreddit: https://www.reddit.com/r/hivemindforum
-For more technical discussions I prefer the GitHub discussions: https://github.com/Nurfen/Hivemind/discussions
+
+For more technical discussions: https://github.com/Nurfen/Hivemind/discussions
 
 Thanks for your input!
